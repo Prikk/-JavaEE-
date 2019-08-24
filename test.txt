@@ -11,3 +11,14 @@
 git pull --rebase origin master
 接着再去：
 git push origin master
+
+
+进行文档的第二次更新成功！
+https://blog.csdn.net/qq_41359808/article/details/88418582
+
+1.先add .
+2.再 git commit -m something 不用加引号了
+3.最后push
+
+https://blog.csdn.net/TTTTT2017/article/details/78564147
+这个是额外补充的一些
