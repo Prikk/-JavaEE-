@@ -1,1 +1,13 @@
 此为测试文本
+
+19.8.24 10：51
+第一次提交git成功！！
+教程：http://www.testclass.net/git/git-commit-code
+
+中间提交过一次，然后失败了，是因为没有pull，没有同步github上面的文档
+解决https://blog.csdn.net/u013120247/article/details/53263169
+
+
+git pull --rebase origin master
+接着再去：
+git push origin master
